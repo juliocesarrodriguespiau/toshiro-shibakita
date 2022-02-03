@@ -1,3 +1,5 @@
+Na busca por conhecimento, tiveo o prazer de acompanhar esse rico conteúdo.
+
 Docker: Utilização prática no cenário de Microsserviços
 Denilson Bonatti, Instrutor - Digital Innovation One
 
